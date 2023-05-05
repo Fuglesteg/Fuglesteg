@@ -1,16 +1,16 @@
-### Hi there 👋
+# Howdy folks🤠
 
-<!--
-**Fuglesteg/Fuglesteg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Andreas Fuglesteg Dale, I'm a passionate fullstack developer from Norway!
 
-Here are some ideas to get you started:
+## My skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,angular,docker,bash,linux,unity,r,java,neovim,figma,ai,git,go,latex,lua,mysql,postgres)](https://skillicons.dev)
+
+## Currently learning
+
+<a href="https://lisp-lang.org">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Lisplogo_alien_256.png" width="100">
+</a>
+<a href="https://opengl.org">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/512px-Opengl-logo.svg.png?20210504153942" width="100">
+</a>
