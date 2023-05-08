@@ -4,7 +4,7 @@ My name is Andreas Fuglesteg Dale, I'm a passionate fullstack developer from Nor
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,angular,docker,bash,linux,unity,r,java,neovim,figma,ai,git,go,latex,lua,mysql,postgres&perline=6)]()
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,angular,docker,bash,linux,unity,r,java,neovim,figma,ai,git,go,latex,lua,mysql,postgres&perline=6)](https://github.com/Fuglesteg)
 
 ## Currently learning
 
